@@ -1,0 +1,11 @@
+C:\Users\jgood\source\repos\Read_Write\bin\Debug\netcoreapp3.1\Read_Write.exe
+C:\Users\jgood\source\repos\Read_Write\bin\Debug\netcoreapp3.1\Read_Write.deps.json
+C:\Users\jgood\source\repos\Read_Write\bin\Debug\netcoreapp3.1\Read_Write.runtimeconfig.json
+C:\Users\jgood\source\repos\Read_Write\bin\Debug\netcoreapp3.1\Read_Write.runtimeconfig.dev.json
+C:\Users\jgood\source\repos\Read_Write\bin\Debug\netcoreapp3.1\Read_Write.dll
+C:\Users\jgood\source\repos\Read_Write\bin\Debug\netcoreapp3.1\Read_Write.pdb
+C:\Users\jgood\source\repos\Read_Write\obj\Debug\netcoreapp3.1\Read_Write.csprojAssemblyReference.cache
+C:\Users\jgood\source\repos\Read_Write\obj\Debug\netcoreapp3.1\Read_Write.AssemblyInfoInputs.cache
+C:\Users\jgood\source\repos\Read_Write\obj\Debug\netcoreapp3.1\Read_Write.AssemblyInfo.cs
+C:\Users\jgood\source\repos\Read_Write\obj\Debug\netcoreapp3.1\Read_Write.dll
+C:\Users\jgood\source\repos\Read_Write\obj\Debug\netcoreapp3.1\Read_Write.pdb

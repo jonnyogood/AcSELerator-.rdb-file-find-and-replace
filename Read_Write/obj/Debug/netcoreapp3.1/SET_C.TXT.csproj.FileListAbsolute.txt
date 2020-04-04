@@ -1,0 +1,11 @@
+C:\Users\jgood\source\repos\SET_C.TXT\bin\Debug\netcoreapp3.1\SET_C.TXT.exe
+C:\Users\jgood\source\repos\SET_C.TXT\bin\Debug\netcoreapp3.1\SET_C.TXT.deps.json
+C:\Users\jgood\source\repos\SET_C.TXT\bin\Debug\netcoreapp3.1\SET_C.TXT.runtimeconfig.json
+C:\Users\jgood\source\repos\SET_C.TXT\bin\Debug\netcoreapp3.1\SET_C.TXT.runtimeconfig.dev.json
+C:\Users\jgood\source\repos\SET_C.TXT\bin\Debug\netcoreapp3.1\SET_C.TXT.dll
+C:\Users\jgood\source\repos\SET_C.TXT\bin\Debug\netcoreapp3.1\SET_C.TXT.pdb
+C:\Users\jgood\source\repos\SET_C.TXT\obj\Debug\netcoreapp3.1\SET_C.TXT.csprojAssemblyReference.cache
+C:\Users\jgood\source\repos\SET_C.TXT\obj\Debug\netcoreapp3.1\SET_C.TXT.AssemblyInfoInputs.cache
+C:\Users\jgood\source\repos\SET_C.TXT\obj\Debug\netcoreapp3.1\SET_C.TXT.AssemblyInfo.cs
+C:\Users\jgood\source\repos\SET_C.TXT\obj\Debug\netcoreapp3.1\SET_C.TXT.dll
+C:\Users\jgood\source\repos\SET_C.TXT\obj\Debug\netcoreapp3.1\SET_C.TXT.pdb

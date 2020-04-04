@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SET_C.TXT/1.0.0": {
+        "runtime": {
+          "SET_C.TXT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SET_C.TXT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
